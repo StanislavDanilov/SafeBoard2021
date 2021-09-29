@@ -12,11 +12,11 @@
 `BAD` или `GOOD`
 
 ### Sample Input 1:
-kaspersky
+`kaspersky`
 ### Sample Output 1:
-BAD
+`BAD`
 
 ### Sample Input 2:
->64Sg^}BrbW8J4JX
+`>64Sg^}BrbW8J4JX`
 ### Sample Output 2:
-GOOD
+`GOOD`
